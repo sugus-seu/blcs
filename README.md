@@ -1,4 +1,4 @@
 blcs
 ====
 
-long connection server
+long connection server for server push
